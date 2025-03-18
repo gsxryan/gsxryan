@@ -9,8 +9,7 @@ I'm currently learning Ansible, Terraform, Intune, PSADT, Proxmox Clustering and
 "Powershell-Scripts" is the strongest featured repo available.  Containing many Sys and SecOps optimization examples for use in accelerating T2 and System Administrator workflows.
 As you explore, keep in mind much of the code here was created in a very fast paced environment with little emphasis on form, and extreme emphasis on function.
 
-Private Repo Coming soon... A cloud based application that crawls all local shortcuts, adding the abillity to centralize orchestration to inject custom code on launch, enabling custom functionality, and telemetry.
-  This will be helpful in communicating custom software actions to end users, and auditing how often items are used to evalute for end-of-life actions.
+Private Repos Coming soon... More Ansible Scripts Orchestrating Unifi WPAsupplicant bypass.  A cloud based application that crawls all local shortcuts, adding the abillity to centralize orchestration to inject custom code on launch, enabling custom functionality, and telemetry.  Adding screenshots to highlight scripts functionality.
 
 “Effective communication is automating it away—it no longer requires thought, effort, or delay.” | RCautomate.com
 
