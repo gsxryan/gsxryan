@@ -12,6 +12,8 @@ Currently Powershell is the strongest featured repo available.  Containing many 
 Private Repo Coming soon... A cloud based application that crawls all local shortcuts, adding the abillity to centralize orchestration to inject custom code on launch, enabling custom functionality, and telemetry.
   This will be helpful in communicating custom software actions to end users, and auditing how often items are used to evalute for end-of-life actions.
 
+“Effective communication is automating it away—it no longer requires thought, effort, or delay.” | RCautomate.com
+
 <!--
 **gsxryan/gsxryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
