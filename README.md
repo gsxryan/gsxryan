@@ -3,7 +3,7 @@
 
 Some of my favorite tasks are Software deployment, patch management, system provisioning, desired state, Powershell, Docker, and other infrastructure as code.
 
-I'm currently learning Ansible, Terraform, Intune, PSADT, Proxmox Clustering and Kubernetes in my HomeLab.
+I'm currently learning Ansible, DevSecOps, Terraform, Intune, PSADT, Proxmox Clustering and Kubernetes in my HomeLab.
 
 
 "Powershell-Scripts" is the strongest featured repo available.  Containing many Sys and SecOps optimization examples for use in accelerating T2 and System Administrator workflows.
