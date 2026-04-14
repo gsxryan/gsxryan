@@ -7,16 +7,14 @@ I am currently re-engineering many of the processes in my office lab to be AI fo
 
 [Powershell-Scripts](https://github.com/gsxryan/Powershell-Scripts) is the strongest featured repo available to see examples of my work.  This contains many Sys and SecOps optimizations to accelerate T2/3 and System Administrator workflows.
 
-I focus on being a flexible administrator, adapting to the specifications of each project.  With that in mind, much of the code here was created in a very fast paced environment with little emphasis on form, extreme emphasis on function, and extreme cost savings.
-
-Effective early 2025 99% of the code here is all home-grown from scratch, without the assistance of AI models.  If code is refactored elsewhere, fork credit is given, or references are mentioned at the top commments of each file.  
+I strive to be a flexible administrator, adapting to the specifications of each project.  With that in mind, much of the code here was created in a very fast paced environment with little emphasis on form, great attention to function, and extreme focus on CapEx and OpEx savings.
 
 Private Repos Coming soon... \
- - Ansible Scripts Orchestrating Unifi WPAsupplicant Direct fiber ISP bypass.
+ - Ansible Scripts Orchestrating Unifi WPAsupplicant Direct fiber ISP bypass, proxmox provisioning.
  - Cloud based application that crawls all local shortcuts, adding the abillity to centralize orchestration and inject user-experience improvments on launch
    - enables custom functionality, and telemetry.
 - Adding screenshots to highlight script functionality.
-- A mobile SD-WAN solution for live streaming or other persistent connectivity.
+- A mobile SD-WAN solution for live streaming, events, or other persistent connectivity.
 
 “Effective communication is automating it away  
 it no longer requires thought, effort, or delay.” | RCautomate.com
